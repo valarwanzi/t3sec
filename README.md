@@ -11,3 +11,9 @@
 重要度：★★★★
 
 虽说不考 Web ，但是改改请求啥的应该也是要的。
+
+## Winhex
+重要度：★★
+
+万一有个隐写的话可以用来对对头文件标记或者看看有没有文件重叠什么的。
+各类文件hex标记https://blog.csdn.net/holandstone/article/details/7624343
